@@ -1,0 +1,3 @@
+BITMAP, aircraft, aircraft.png;
+BITMAP, galaxypic, galaxypic.jpg;
+BITMAP, hadoken, hadoken.png;

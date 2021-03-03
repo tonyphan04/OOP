@@ -1,0 +1,12 @@
+C:\Users\hoang\source\repos\AircraftOne\bin\Debug\netcoreapp2.0\AircraftOne.deps.json
+C:\Users\hoang\source\repos\AircraftOne\bin\Debug\netcoreapp2.0\AircraftOne.runtimeconfig.json
+C:\Users\hoang\source\repos\AircraftOne\bin\Debug\netcoreapp2.0\AircraftOne.runtimeconfig.dev.json
+C:\Users\hoang\source\repos\AircraftOne\bin\Debug\netcoreapp2.0\AircraftOne.dll
+C:\Users\hoang\source\repos\AircraftOne\bin\Debug\netcoreapp2.0\AircraftOne.pdb
+C:\Users\hoang\source\repos\AircraftOne\obj\Debug\netcoreapp2.0\AircraftOne.csprojAssemblyReference.cache
+C:\Users\hoang\source\repos\AircraftOne\obj\Debug\netcoreapp2.0\AircraftOne.AssemblyInfoInputs.cache
+C:\Users\hoang\source\repos\AircraftOne\obj\Debug\netcoreapp2.0\AircraftOne.AssemblyInfo.cs
+C:\Users\hoang\source\repos\AircraftOne\obj\Debug\netcoreapp2.0\AircraftOne.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\AircraftOne\obj\Debug\netcoreapp2.0\AircraftOne.dll
+C:\Users\hoang\source\repos\AircraftOne\obj\Debug\netcoreapp2.0\AircraftOne.pdb
+C:\Users\hoang\source\repos\AircraftOne\obj\Debug\netcoreapp2.0\AircraftOne.genruntimeconfig.cache
